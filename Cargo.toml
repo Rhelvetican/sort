@@ -3,6 +3,7 @@ name = "sortlib"
 authors = ["Rhelvetican <bionicvnb@gmail.com>", "WildWaze"]
 keywords = ["sort", "sorting", "algorithm", "library"]
 license = "Unlicense"
+repository = "https://github.com/Rhelvetican/sort"
 readme = "README.md"
 description = "A library of sorting algorithms."
 version = "0.1.0"
