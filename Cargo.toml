@@ -1,0 +1,13 @@
+[package]
+name = "sortlib"
+authors = ["Rhelvetican <bionicvnb@gmail.com>", "WildWaze"]
+keywords = ["sort", "sorting", "algorithm", "library"]
+license = "Unlicense"
+readme = "README.md"
+description = "A library of sorting algorithms."
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["lib"]
+name = "sort"
