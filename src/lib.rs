@@ -6,7 +6,7 @@ pub mod select;
 #[cfg(test)]
 mod test {
 
-    use super::*;
+    use crate::*;
 
     fn ge<T: PartialOrd>(a: &T, b: &T) -> bool {
         a >= b
